@@ -1,11 +1,4 @@
-(Sem assunto)
-
-
-MARIANA ROCHITI CURY
-
 ​
-JULIA DE SOUZA;​
-VICTÓRIA CLARA MAZZAROTO MACEDO​
 # Manual da API de Produtos
 
 ## 1. Introdução
@@ -299,4 +292,5 @@ Este projeto demonstra conceitos importantes como:
 * criação de rotas HTTP
 * retorno de dados em formato JSON
 * documentação de APIs com Swagger
+
 
